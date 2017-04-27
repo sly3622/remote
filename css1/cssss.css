@@ -1,0 +1,398 @@
+*{margin:0;padding:0;}
+body{font:12px;
+        width:1349px;}
+.header{width:1349px;
+        height:583px;
+       padding-top:16px;
+        background:url('../img/BG_04.jpg ') no-repeat;
+        }
+.logos{width:400px;}
+
+.logo{position:absolute;
+        float:left;
+        margin-left: 110px;
+        margin-top: 2px;
+      }
+
+.remote1{
+        line-height:10px;
+        position:relative;
+        float:left;
+        margin-top:8px;
+        margin-left:160px;
+          }
+
+.computer{line-height: 10px;
+        position: relative;
+        float: left;
+        margin-top:-19px;
+         margin-left: 160px;
+        color:white;
+         }
+
+
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;
+            color:white;}
+
+
+.center-right{float:right;
+            margin-right:170px;
+            margin-top:35px;
+            }
+/*导航*/
+.nav{
+    height:50px;
+    width:1000px;
+    float: right;
+    position:absolute;
+    margin-left: 242px;
+    margin-top: -50px;
+       }
+
+.nav li{
+                       list-style:none;
+                       line-height:50px;
+                       float:right;
+                       padding:0 40px;
+}
+
+
+.header-content{
+    width: 486px;
+    font-size: 44px;
+    position: absolute;
+    margin-left: 235px;
+    color: white;
+    margin-top: 125px;
+}
+
+.header-download{
+    position: absolute;
+    margin-top: 323px;
+    margin-left: 250px;
+}
+.load1{position: absolute;
+    margin-top: 330px;
+    margin-left: 349px;
+    font-size: 39px;
+    color: white;}
+.header-share{color: white;
+    position: absolute;
+    margin: 433px 259px;}
+.header-down1{position: absolute;
+    margin: 436px 323px;}
+.header-down2{
+    position: absolute;
+    margin: 436px 348px;}
+
+
+
+
+
+
+.part1{ width:1349px;
+        height:620px;
+        background:url('../img/BG_01.png ') repeat;}
+.pic1{
+      float:left;
+      margin-left:65px;
+      margin-top:59px;}
+
+.title1{
+    height: 451px;
+    width: 506px;
+    font-size: 47px;
+    line-height: 60px;
+    position: absolute;
+    float: right;
+    margin-left: 773px;
+    margin-top:151px;
+    color: #4bb608;
+            }
+
+
+.content1{
+    height: 449px;
+    width: 458px;
+    font-size: 23px;
+    line-height: 2;
+    position: absolute;
+    float: right;
+    margin-left: 779px;
+    margin-top: 290px;
+    color:#8e908b;
+        }
+
+.down1{
+    position: absolute;
+    float:right;
+    margin-left: 275px;
+    margin-top: 457px;
+}
+
+.part2{ width:1349px;
+    height:620px;
+    background:url('../img/BG_02.png ') repeat;}
+
+.pic2{
+    float:right;
+    margin-right: 108px;
+    margin-top: 35px;}
+
+.title2{
+    height: 421px;
+    width: 515px;
+    font-size: 47px;
+    line-height: 60px;
+    position: absolute;
+    float: right;
+    margin-left: 135px;
+    margin-top: 153px;
+    color: #4bb608;
+
+}
+
+
+.content2{
+    height: 449px;
+    width: 458px;
+    font-size: 23px;
+    line-height: 2;
+    position: absolute;
+    float: right;
+    margin-left: 137px;
+    margin-top: 226px;
+    color: #8e908b;
+}
+
+.down2{
+    position: absolute;
+    float:left;
+    margin-left: 280px;
+    margin-top: 457px;
+}
+
+.part3{ width:1349px;
+    height:620px;
+    background:url('../img/BG_01.png ') repeat;}
+
+
+.pic3{
+    float:left;
+    margin-left: 108px;
+    margin-top: 35px;}
+
+.title3{
+    height: 451px;
+    width: 506px;
+    font-size: 47px;
+    line-height: 60px;
+    position: absolute;
+    float: right;
+    margin-left: 773px;
+    margin-top:159px;
+    color: #4bb608;
+}
+
+
+.content3{
+    height: 449px;
+    width: 458px;
+    font-size: 23px;
+    line-height: 2;
+    position: absolute;
+    float: right;
+    margin-left: 774px;
+    margin-top: 250px;
+    color:#8e908b;
+}
+
+.down3{
+    position: absolute;
+    float:right;
+    margin-left: 275px;
+    margin-top: 457px;
+}
+
+
+.ios{color: #8e908b;
+        font-size:36px;}
+
+
+
+
+/*page4*/
+.title4{position: absolute;
+        font-size: 45px;
+     margin-top: 26px;
+     margin-left: 524px;
+        color: #4bb608; }
+/*.pic4_1{
+        float:left;
+        margin-right: 70px;
+        margin-top: 122px;
+        margin-left: 188px;
+        }*/
+.part4{ width:1349px;
+    height:550px;
+    background:url('../img/BG_02.png ') repeat;}
+.pic4_1{
+    float:left;
+    margin-right: 19px;
+    margin-top: 96px;
+    margin-left: 169px;
+}
+.title4-1{
+    position: absolute;
+    float: left;
+    margin-left: 265px;
+    margin-top: 261px;
+    font-size: 22px;
+    color:#8e908b;
+}
+.content4-1{
+    position: absolute;
+    float: left;
+    line-height: 52px;
+    margin-left: 207px;
+    margin-top: 268px;
+    font-size: 22px;
+    width: 287px;
+    align-content: center;
+    color:#8e908b;
+}
+.pic4_2{
+    float:left;
+    margin-right: 6px;
+    margin-top: 96px;
+    margin-left: 27px;
+}
+
+
+.title4-2{
+    position: absolute;
+    float: left;
+    margin-left: 583px;
+    margin-top: 238px;
+    font-size: 22px;
+    color:#8e908b;
+}
+.content4-2{
+    position: absolute;
+    float: left;
+    line-height: 38px;
+    margin-left: 526px;
+    margin-top: 255px;
+    font-size: 22px;
+    width: 268px;
+    align-content: center;
+    color:#8e908b;
+}
+.pic4_3{
+    float:left;
+    margin-right: 29px;
+    margin-top: 73px;
+    margin-left: 28px;
+}
+
+.title4-3{
+    position: absolute;
+    float: right;
+    margin-left: 961px;
+    margin-top: 218px;
+    font-size: 22px;
+    color:#8e908b;
+}
+.content4-3{
+    position: absolute;
+    float: left;
+    line-height: 37px;
+    margin-left: 894px;
+    margin-top: 232px;
+    font-size: 22px;
+    width: 262px;
+    align-content: center;
+    color:#8e908b;
+}
+.down4{position: absolute;
+    margin-top: 395px;
+    margin-left: -536px;}
+
+
+
+.part5{ width:1349px;
+    height:620px;
+    background:url('../img/BG_01.png ') repeat;}
+
+.pic5{
+    position:absolute;
+    margin-top: 98px;
+    margin-left: 44px;}
+
+
+.bottom{ width:1349px;
+    height:364px;
+    background:url('../img/BG_04.jpg ') no-repeat;}
+
+.title5{position: absolute;
+    font-size: 45px;
+    margin-top: 74px;
+    margin-left: 575px;
+    color: white;
+}
+
+.download{position: absolute;
+    margin-left: 519px;
+    margin-top: 169px; }
+
+.load{position: absolute;
+    margin-left: 624px;
+    margin-top: 179px;
+    color: white;
+    font-size: 36px;
+}
+
+
+.footer{ width:1349px;
+    height:171px;
+    background:url('../img/BG_03.png ') repeat;}
+
+
+.nav1{
+    position: absolute;
+    margin-top: 30px;
+    font-size: 13px;
+    margin-left: 37px;
+
+}
+.nav1 li{
+    list-style:none;
+    line-height:50px;
+    float:right;
+    padding:0 20px;}
+
+.nav2{
+    position: absolute;
+    margin-top: 42px;
+    font-size: 13px;
+    margin-left: 44px; }
+
+
+.nav2 li{
+    list-style:none;
+    line-height:50px;
+    float:right;
+    padding:0 15px; }
+
+.nav2 a{color:#8e908b;}
+
+
+.foot-right{margin: 42px auto;
+            width: 102px;  }
+
+.foot-logos{    width: 163px;
+                float: right;
+                margin-right: 89px;
+             margin-top: -65px;
+}
